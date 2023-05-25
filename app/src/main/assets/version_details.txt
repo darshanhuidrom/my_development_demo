@@ -1,0 +1,10 @@
++++++++++++++Version Details+++++++++++++++++
+Description:
+This file will include all the version details of this perticular app.
+This app is to practice the versioning in the github.
+
+
+Version History:
+ versionCode 2
+ versionName "1.2"
+ -------------------
